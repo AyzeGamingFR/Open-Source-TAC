@@ -1,0 +1,22 @@
+[
+	{
+        "section": "Data sources",
+        "description": "Health data comes from the following sources:\n- data from the SI-DEP database,\n- data reported by health centers participating in SI-VIC and the OSCOUR® network,\n- data from the Vaccin Covid database.\n- data from the DRESS (Direction de la recherche, des études de l'évaluation et des statistiques).\n\nThe data on vaccination and the epidemiological situation are aggregated and analyzed by Santé publique France (SpF) and made available on data.gouv.fr. Data on the number of tests and hospital admissions by vaccination status are produced by the DREES.",
+        "links": [
+	        {
+                "label": "Sources on Data.gouv.fr",
+                "url": "https://bonjour.tousanticovid.gouv.fr/app.html#chiffres"
+            }
+        ]
+    },
+    {
+        "section": "How to interpret",
+        "description": "Since December 8 2020, all test results, RT-PCR or TAg (antigen test), enter into the production of SI-DEP indicators (incidence rate, positivity rate and screening rate).\n\nThe epidemiological approach of Santé publique France favors indicators (incidence rate, positivity, screening) focused on people. The current calculation methods applied by Santé publique France are as follows:\n\n- number of people tested: calculated over a given period (7 days for example), it corresponds to the number of people having had at least one test during this period and who have never tested positive in the previous 60 days;\n\n- number of people who tested positive: a person who tests positive either for the first time or more than 60 days after a previous positive test will be counted as a new case.\n\nIn general, the indicators should be interpreted with caution and in their entirety.\n\nFor more information on the analysis of the health situation, please consult the weekly epidemiological point of Santé publique France (SpF) available on santepubliquefrance.fr",
+        "links": [
+	        {
+                "label": "Santé publique France",
+                "url": "https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19/coronavirus-chiffres-cles-et-evolution-de-la-covid-19-en-france-et-dans-le-monde#block-266156"
+            }
+        ]
+    }
+]
